@@ -22,9 +22,10 @@ To get your project listed in the organization long term, you should meet some r
 - You have a contribution guideline that describes how to contribute to the project
 - You clearly state the maintainer(s) of the project in the README file
 - The repository has the `community` topic set
-- The repository is public and open for contributions
-- Your project follows the [IT-Kompass](https://itkompass.scout.ch) and the [IT-Guidelines](https://itkompass.scout.ch/#/it-guidelines) spcifically
+- The repository is public and open for contributions – private repositories are possible after talking to IT-KOM and giving a good reason
+- Your project follows the [IT-Kompass](https://itkompass.scout.ch) and the [IT-Guidelines](https://itkompass.scout.ch/#/it-guidelines) specifically
     - You keep your dependencies up to date (either regularly by hand or automatically using something like renovate-bot or dependabot)
+- If you run a public instance of your projects, make sure it is on the [IT-Landscape](https://github.com/scout-ch/it-landscape)
 
 ## License
 If you don't want to think about a license, you can use the [AGPL-3.0-or-later](https://choosealicense.com/licenses/agpl-3.0/) license. This license allows you to use the code for free, but requires you to share any modifications you make to the code with the community. This is a good way to ensure that the code remains open-source and available to everyone.
