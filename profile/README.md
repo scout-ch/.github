@@ -2,6 +2,9 @@
 
 You found the Github organization of the [Swiss Guide and Scout Movement](https://pfadi.swiss)!
 
+> [!TIP]  
+> If you want an overview over existing services and guidelines, check out the [IT-KomPass](https://itkompass.scout.ch) and [IT-Landscape](https://scout-ch.github.io/it-landscape/).
+
 ## What is scout-ch?
 scout-ch is a collection of open-source projects and tools that are used by the Swiss Guide and Scout Movement. The projects are used to support the activities of scouts across Switzerland. Some are developed and maintained by volunteers from the movement and others are maintained by external providers. Therefore some projects are to be considered community projects, while others are actively maintained by the Swiss Guide and Scout Movement.
 
@@ -23,7 +26,7 @@ To get your project listed in the organization long term, you should meet some r
 - You clearly state the maintainer(s) of the project in the README file
 - The repository has the `community` topic set
 - The repository is public and open for contributions – private repositories are possible after talking to IT-KOM and giving a good reason
-- Your project follows the [IT-Kompass](https://itkompass.scout.ch) and the [IT-Guidelines](https://itkompass.scout.ch/#/it-guidelines) specifically
+- Your project follows the [IT-KomPass](https://itkompass.scout.ch) and the [IT-Guidelines](https://itkompass.scout.ch/#/it-guidelines) specifically
     - You keep your dependencies up to date (either regularly by hand or automatically using something like renovate-bot or dependabot)
 - If you run a public instance of your projects, make sure it is on the [IT-Landscape](https://github.com/scout-ch/it-landscape)
 
